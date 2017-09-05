@@ -1,3 +1,7 @@
+# DEPRECATED - Please see [elm-slate/init-slate-db](https://github.com/elm-slate/init-slate-db)
+
+
+
 # slate-init-db
 Creates and initializes a Postgresql database for use by Slate applications.
 
